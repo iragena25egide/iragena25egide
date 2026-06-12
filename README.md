@@ -10,26 +10,29 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-</div>
-
-- 🔭 Full-Stack Developer passionate about **Web & Mobile Apps**
-- 🎓 Currently a **Student** based in **Canada 🇨🇦**
-- 💡 I specialize in **React, Next.js, Node.js, NestJS**
-- 🗄️ Database lover: **PostgreSQL, MySQL, MongoDB, Prisma, Sequelize**
-- ⚡ Fun fact: *I write code, then wonder why it works 😄*
-- 🤝 He/Him · Open to collaborations & open source contributions
-
----
-
-<div align="center">
-
 ## 🛠️ My Tech Stack
 
 ### ⚡ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux&perline=8" />
+
+<br/>
+
+### 📱 Mobile & Desktop
+
+<img src="https://skillicons.dev/icons?i=flutter,electron&perline=6" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br/>
+
+### 🎨 UI Libraries
+
+<img src="https://skillicons.dev/icons?i=firebase&perline=6" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
 
 <br/>
 
@@ -53,20 +56,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iragena25egide/iragena25egide/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iragena25egide/iragena25egide/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iragena25egide/iragena25egide/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,16 +67,6 @@
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iragena25egide&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iragena25egide&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -107,16 +86,16 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/iragena25egide)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntabashwa-egide-b277963bb/)
 &nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/iragena25egide)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntabashwa_egide/?hl=en)
 &nbsp;&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iragena25egide)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iragena25egide)
 
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=iragena25egide&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=iragena25egide&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS&base=126)
 
 </div>
